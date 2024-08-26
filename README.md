@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning C++.
 - 👯 I’m looking to collaborate on Bayesian machine learning.
 - 🤔 I’m looking for a 6 months internship in related fields.
-- 💬 Ask me about my side projects.
+- 💬 Ask me about my entrepreneurial side projects.
 - 📫 How to reach me: yoann.launay@outlook.com
 - 😄 Pronouns: he/him.
