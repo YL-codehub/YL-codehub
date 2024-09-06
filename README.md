@@ -58,7 +58,7 @@ Note that I’m looking for a 6 months internship in ML/AI/Data for April 2025!
 [![Company to be announced soon...](https://img.shields.io/badge/-👽%20Company%20to%20be%20announced%20soon...-000000?style=flat)](https://github.com/YL-codehub)
 [![Wordle Solver](https://img.shields.io/badge/-🃏%20Wordle%20Solver-000000?style=flat)](https://github.com/YL-codehub/wordle_solver)
 [![Academic Website](https://img.shields.io/badge/-🌐%20Academic%20Website-000000?style=flat)](https://yl-codehub.github.io/homepage/)
-[![Simple NN Predictor](https://img.shields.io/badge/-🔮%20Simple%20NN%20Predictor-000000?style=flat)](https://github.com/YL-codehub/cryptoproject)
+[![Simple NN Predictor](https://img.shields.io/badge/-🔮%20Simple%20NN%20Predictor-000000?style=flat)](https://github.com/YL-codehub/NNext)
 [![Portfolio Optimiser](https://img.shields.io/badge/-📈%20Portfolio%20Optimiser-000000?style=flat)](https://github.com/YL-codehub/cryptoproject)
 
 
